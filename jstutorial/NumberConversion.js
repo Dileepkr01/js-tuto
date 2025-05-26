@@ -1,10 +1,10 @@
-// let score = "33abc"
-// console.log(typeof score);
-// console.log(typeof (score));
+let score = "33abc"
+console.log(typeof score);
+console.log(typeof (score));
 
 
-// let valInNumber = Number(score)
-// console.log(valInNumber);
+let valInNumber = Number(score)
+console.log(valInNumber);
 
 
 let x = 100
